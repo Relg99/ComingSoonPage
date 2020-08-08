@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="807" viewBox="0 0 808 807">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path id="A" class="cls-1" d="M408.573,307.372h-45.85L279.081,522.117h46L342.8,473.338h85.84l18.75,48.779h47.168ZM356.131,437.157l29-79.688,29.59,79.688H356.131Z"/>
+  <rect class="cls-2" x="118" width="690" height="690"/>
+  <rect class="cls-2" x="59" y="58" width="690" height="690"/>
+  <rect class="cls-2" y="117" width="690" height="690"/>
+</svg>
